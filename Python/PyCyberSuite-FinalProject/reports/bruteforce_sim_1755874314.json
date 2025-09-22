@@ -1,0 +1,10 @@
+{
+  "created": "2025-08-22 20:21:54",
+  "data": {
+    "password": "234",
+    "max_length": 3,
+    "found": true,
+    "attempts": 38695,
+    "result": "234"
+  }
+}

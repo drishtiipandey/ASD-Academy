@@ -1,0 +1,43 @@
+{
+  "created": "2025-08-22 19:51:44",
+  "data": {
+    "domain": "google.com",
+    "results": [
+      {
+        "subdomain": "www.google.com",
+        "ip": "142.250.194.4",
+        "time": "2025-08-22 19:51:33"
+      },
+      {
+        "subdomain": "mail.google.com",
+        "ip": "142.250.77.197",
+        "time": "2025-08-22 19:51:34"
+      },
+      {
+        "subdomain": "api.google.com",
+        "ip": "142.250.182.36",
+        "time": "2025-08-22 19:51:36"
+      },
+      {
+        "subdomain": "blog.google.com",
+        "ip": "172.217.166.9",
+        "time": "2025-08-22 19:51:39"
+      },
+      {
+        "subdomain": "shop.google.com",
+        "ip": "74.125.200.92",
+        "time": "2025-08-22 19:51:40"
+      },
+      {
+        "subdomain": "admin.google.com",
+        "ip": "172.217.26.14",
+        "time": "2025-08-22 19:51:41"
+      },
+      {
+        "subdomain": "vpn.google.com",
+        "ip": "64.9.224.70",
+        "time": "2025-08-22 19:51:44"
+      }
+    ]
+  }
+}

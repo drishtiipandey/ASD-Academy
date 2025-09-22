@@ -1,0 +1,10 @@
+{
+  "created": "2025-08-20 12:36:03",
+  "data": {
+    "password": "admin",
+    "max_length": 3,
+    "found": false,
+    "attempts": 47988,
+    "result": null
+  }
+}

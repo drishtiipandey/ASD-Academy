@@ -1,0 +1,13 @@
+{
+  "created": "2025-08-20 12:33:53",
+  "data": {
+    "domain": "example.com",
+    "results": [
+      {
+        "subdomain": "www.example.com",
+        "ip": "104.71.61.211",
+        "time": "2025-08-20 12:33:50"
+      }
+    ]
+  }
+}
