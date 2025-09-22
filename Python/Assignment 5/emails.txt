@@ -1,0 +1,10 @@
+Hello team,
+Please contact us at support@gmail.com for any help.
+You can also reach sales@gmail.com for pricing queries.
+For technical issues, email tech.team@mycompany.org.
+Sometimes, our backup email is support@example.com (duplicate)
+Spam emails like not-an-email@, test@invalid, and user@.com should be ignored.
+Best regards,
+Admin
+info@service.net
+contact@school.edu
